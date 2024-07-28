@@ -1,0 +1,24 @@
+body {
+    background-color: #f2f2f2;
+}
+h1 {
+    text-align: center;
+    font-size: 52px;
+    color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 98px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+}
+p {
+    color: #111; font-family: 'Raleway',sans-serif; font-size: 23px; font-weight: 500; line-height: 32px; margin: 0 0 24px;
+}
+.fa-brands.fa-apple {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.btn.btn-primary.btn-lg.px-4 {
+    text-align: center;
+}
+.btn-group {
+    text-align: right;
+}
+.btn.btn-danger {
+    text-align: right;
+}
